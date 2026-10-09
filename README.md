@@ -10,7 +10,6 @@ Adicione aqui o link do GitHub Pages, caso o projeto esteja publicado.
 
 ## 🖼️ Demonstração Visual
 
-Adicione uma captura de tela real do projeto mostrando os marcadores coloridos.
 
 ## ✨ Conceitos Praticados
 
