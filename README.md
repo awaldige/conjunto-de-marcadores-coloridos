@@ -1,71 +1,74 @@
-# 🎨 CSS Color Markers - FreeCodeCamp Project
+# 🎨 Conjunto de Marcadores Coloridos
 
-Este projeto recria **marcadores coloridos utilizando apenas HTML e CSS**, simulando marcadores reais por meio de gradientes e efeitos visuais simples.
+Projeto front-end desenvolvido com **HTML5 e CSS3**, inspirado em exercícios educacionais de desenvolvimento web.
 
-O exercício foi desenvolvido como parte do currículo do **FreeCodeCamp**, com foco em aprendizado de **gradientes, sombras e estilização com CSS**.
+A aplicação explora a criação e a estilização de marcadores coloridos utilizando recursos do CSS, como cores, gradientes, bordas e sombras, conforme implementados no projeto.
 
-## 🚀 Funcionalidades
+## 🌐 Demonstração Online
 
-- Marcadores coloridos criados apenas com HTML e CSS
-- Uso de **gradientes** para simular cores realistas
-- Aplicação de **sombras e efeitos visuais**
-- Estrutura simples e didática para aprendizado
+Adicione aqui o link do GitHub Pages, caso o projeto esteja publicado.
 
-## 🖍️ Marcadores Disponíveis
+## 🖼️ Demonstração Visual
 
-O projeto inclui três marcadores:
+Adicione uma captura de tela real do projeto mostrando os marcadores coloridos.
 
-- 🔴 **Marcador Vermelho** — Gradiente do marrom ao vermelho vibrante.
-- 🟢 **Marcador Verde** — Gradiente com variações de verde.
-- 🔵 **Marcador Azul** — Gradiente com tons suaves e profundos de azul.
+## ✨ Conceitos Praticados
 
-Cada marcador é dividido em:
+- Estruturação de conteúdo com HTML5
+- Estilização de elementos com CSS3
+- Combinação de cores
+- Criação de gradientes, caso utilizados
+- Aplicação de bordas e sombras, caso utilizadas
+- Organização visual de elementos na página
 
-- **Cap (tampa)** — parte menor.
-- **Sleeve (manga)** — parte maior e colorida.
+## 🧰 Tecnologias Utilizadas
 
-## 🛠️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-  - `linear-gradient`
-  - `box-shadow`
-  - `display: inline-block`
-  - bordas e efeitos visuais
+| Tecnologia | Aplicação |
+|---|---|
+| HTML5 | Estrutura da página |
+| CSS3 | Cores, marcadores e efeitos visuais |
 
 ## 📂 Estrutura do Projeto
 
-css-color-markers/
+Confira os nomes dos arquivos no repositório e mantenha aqui a estrutura correspondente. Por exemplo:
+
+```text
+conjunto-de-marcadores-coloridos/
 ├── index.html
-└── styles.css
+├── styles.css
+└── README.md
+```
 
-🌐 Acesse o Projeto Online
-
-🔗 https://awaldige.github.io/conjunto-de-marcadores-coloridos/
-
-
-## 💻 Como Usar
+## ▶️ Como Executar Localmente
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/seu-usuario/css-color-markers.git
-Abra o arquivo index.html em seu navegador.
+   ```bash
+   git clone https://github.com/awaldige/conjunto-de-marcadores-coloridos.git
+   ```
 
-Experimente modificar cores e gradientes no CSS para criar novos marcadores.
+2. Entre na pasta:
 
-🤝 Contribuições
-Você pode contribuir com melhorias, como:
+   ```bash
+   cd conjunto-de-marcadores-coloridos
+   ```
 
-Adicionar novos marcadores e cores
+3. Abra o arquivo HTML principal no navegador.
 
-Criar animações ou efeitos extras
+Não é necessário instalar dependências para uma página estática simples.
 
-Melhorar layout e responsividade
+## 🎯 Objetivo do Projeto
 
-Basta fazer um fork e enviar um Pull Request.
+Praticar os fundamentos de HTML e CSS por meio da criação de elementos visuais coloridos, aprimorando os conhecimentos de estilização e composição de interfaces.
 
-📜 Licença
-Este projeto é distribuído sob a Licença MIT, permitindo uso e modificação livre.
+## 👨‍💻 Autor
 
-Projeto educacional baseado nos exercícios do FreeCodeCamp para aprendizado de CSS.
+**André Waldige — AW TECHNOLOGY**
+
+🔗 [GitHub: @awaldige](https://github.com/awaldige)
+
+---
+
+Projeto educacional de desenvolvimento front-end.
+
+⭐ Se gostou do projeto, considere deixar uma estrela no repositório!
