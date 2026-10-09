@@ -6,7 +6,7 @@ A aplicação explora a criação e a estilização de marcadores coloridos util
 
 ## 🌐 Demonstração Online
 
-Adicione aqui o link do GitHub Pages, caso o projeto esteja publicado.
+(https://awaldige.github.io/conjunto-de-marcadores-coloridos/)
 
 ## 🖼️ Demonstração Visual
 
